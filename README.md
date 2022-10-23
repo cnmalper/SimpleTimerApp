@@ -9,3 +9,7 @@ If user clicks to "Stop Button", timer stops and shows a message about time's ov
 I practiced on Optionals, Timer and Alerts.
 
 Thanks to Atil Samancioglu :)
+
+
+<p><img align="left" src="https://github.com/cnmalper/SimpleTimerApp/blob/main/timer.gif" width="300" height="650"/></p>
+
