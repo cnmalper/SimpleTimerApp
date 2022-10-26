@@ -1,6 +1,8 @@
 # SimpleTimerApp
 
-## It's a simple timer app. 
+## 100 Days Of Swift & iOS
+
+### It's a simple timer app. 
 
 User types time and clickes to "Start Button" to start the timer.
 
